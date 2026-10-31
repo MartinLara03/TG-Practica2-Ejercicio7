@@ -131,7 +131,7 @@ namespace Practica2_Ejercicio7
             Console.WriteLine("JUICIOS EN PROCESO");
 
             Console.WriteLine(
-                "El abogado tiene " + abogado.JuiciosEnProceso + " juicios en proceso." );
+                "El abogado tiene " + abogado.JuiciosEnProceso + " juicios en proceso.");
 
 
             Console.ReadKey();
